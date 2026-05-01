@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
